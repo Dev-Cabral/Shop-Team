@@ -6,11 +6,12 @@
 
 body {
 font-family: 'Roboto', sans-serif;
+background-color: rgb(209, 230, 223);
 }
 
 header {
 padding: 16px 0;
-background-color:rgb(91, 25, 25);
+background-color:rgb(96, 52, 52);
 color: rgb(230, 230, 11);
 font-size: 20px;
 }
@@ -61,7 +62,7 @@ header nav li {
 }
 
 section {
-    color:rgb(91, 25, 25);
+    color:rgb(95, 39, 39);
     padding: 24px 0;
 }
 
